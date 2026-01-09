@@ -34,4 +34,4 @@ jobs:
 
           env:
 
-          SONAR_TOKEN: ${{ secrets.TOKEN_LAFLEUR_DEVOPS }}
+            SONAR_TOKEN: ${{ secrets.TOKEN_LAFLEUR_DEVOPS }}
